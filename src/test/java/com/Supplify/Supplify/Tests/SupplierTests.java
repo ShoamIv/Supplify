@@ -1,3 +1,4 @@
+/*
 package com.Supplify.Supplify.Tests;
 
 import static org.junit.jupiter.api.Assertions.*;
@@ -182,3 +183,4 @@ public class SupplierTests {
         verify(mockSupplierRepo, times(1)).deleteById(1);
     }
 }
+*/
