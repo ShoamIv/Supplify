@@ -49,6 +49,8 @@ supplify-backend/
 
     ├── application.yml   # Spring Boot configuration
 
+
+
 ### Installation
 
 #### Backend Setup
@@ -73,71 +75,8 @@ npm install
 
 npx react-native run-android
 
-## API Endpoints
 
-### Authentication
-
-POST /auth/register - User registration
-
-POST /auth/login - User login
-
-POST /auth/forgotPassword - Forgot password
-
-POST /auth/google - Google authentication
-
-POST /auth/updateDeviceToken - Update device token
-
-### Business
-
-GET /business/getBusinessSuppliers - Get suppliers associated with a business
-
-GET /business/getBusinessSuppliersAndAgents - Get suppliers and agents
-
-GET /business/getBusinessProducts - Get products associated with a business
-
-DELETE /business/deleteSupplierFromBusiness - Remove supplier from business
-
-PUT /business/updateAgent - Update agent information
-
-### Users
-
-POST /user/resetPassword - Reset user password
-
-POST /user/createUser - Create a new user
-
-### Suppliers
-
-POST /suppliers/createSupplier - Create a new supplier
-
-GET /suppliers/getAllSuppliers - Retrieve all suppliers
-
-DELETE /suppliers/deleteSupplier - Remove a supplier
-
-### Agents
-
-POST /agents/addAgent - Add a new agent
-
-### Products
-
-POST /product/createProduct - Create a new product
-
-GET /product/displayProducts - Display all products
-
-GET /product/fetchProduct - Retrieve a specific product
-
-### Orders
-
-POST /orders/CreateOrder - Create a new order
-
-GET /orders/getOrders - Retrieve all orders
-
-GET /orders/getOrderInfo - Retrieve order details
-
-GET /orders/getPendingOrders - Get all pending orders
-
-PUT /orders/OrderConfirm - Confirm an order
-
-## 📸 Visual Guide
+## 📸 Visual
 To make this documentation more user-friendly, we’ve included screenshots of the key features of Supplify. These images provide a clear understanding of how the app works, making it easier for new users to navigate and use the system efficiently.
 
 ### 1️⃣ Login & Registration
