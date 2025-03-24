@@ -32,14 +32,23 @@ Supplify follows a Client-Server architecture, consisting of:
 
 supplify-backend/
 ├── src/main/java/com/supplify/
+
 │   ├── entities/         # JPA Entities (e.g., Agent, Supplier, Order)
+
 │   ├── repositories/     # Database access layer (Spring Data JPA)
+
 │   ├── services/         # Business logic layer
+
 │   ├── controllers/      # REST API endpoints
+
 │   ├── dto/              # Data Transfer Objects
+
 │   ├── config/           # Configuration files
+
 │   ├── utils/            # Utility classes
+
 └── src/main/resources/
+
     ├── application.yml   # Spring Boot configuration
 
 ### Installation
