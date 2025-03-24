@@ -2,19 +2,62 @@
 
 ## Overview
 
-Supplify is a mobile application designed to help convenience store employees and managers, as well as specific gas stations, consolidate product orders from multiple suppliers into a single interface. The app automates order preparation and communication, improving efficiency and reducing errors.
+Our project aims to develop a mobile application that simplifies the product ordering process for small businesses.
+
+Currently, small businesses must manually create and send separate order lists to multiple suppliers via WhatsApp, which is time-consuming and prone to errors.
+
+### Programming Languages & Frameworks
+
+Backend: Java + Spring Boot
+Frontend: React Native
+
+### Database
+
+MySQL
+
+### Notification System
+
+Firebase
+
+WhatsApp API Communication: Twilio
 
 ## System Architecture Overview
 
-Supplify follows a Client-Server architecture, consisting of:
+Supplify follows a robust Client-Server architecture, consisting of three primary components:
 
-**Frontend:** A React Native application handling the user interface and API calls.
+### Frontend (Client):
 
-**Backend:** A Spring Boot server managing business logic and database operations.
+Built with React Native for cross-platform mobile compatibility
 
-**Database:** A MySQL database storing system data.
+Handles user interactions, form validations, and state management
 
-**WhatsApp Business API (Twilio):** Used for supplier communication and notifications.
+Communicates with backend services through RESTful API calls
+
+Manages local storage for offline capabilities and improved performance
+
+
+### Backend (Server):
+
+Powered by Spring Boot with Java
+
+Implements business logic, security controls, and data validation
+
+Manages authentication and authorization using JWT tokens
+
+Processes incoming API requests and orchestrates database operations
+
+Handles integration with third-party services
+
+
+### Communication & Notification Layer:
+
+Firebase: Manages push notifications and real-time updates
+
+WhatsApp Business API (Twilio): Facilitates direct communication with suppliers
+
+Enables automated order confirmations and status updates
+
+The system employs a RESTful API architecture, allowing seamless communication between components while maintaining separation of concerns. This modular design ensures scalability and facilitates future enhancements.
 
 ## Features
 
