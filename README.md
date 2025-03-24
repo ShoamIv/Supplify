@@ -22,8 +22,6 @@ Supplify follows a Client-Server architecture, consisting of:
 
 **Order Consolidation:** Automatically combine orders from different suppliers into a unified order list.
 
-**Inventory Tracking:** Keep track of stock levels and order history.
-
 **Automated Communication:** Send orders directly to suppliers via WhatsApp Business API (Twilio).
 
 **User Roles:** Separate views and functionalities for employees and managers
