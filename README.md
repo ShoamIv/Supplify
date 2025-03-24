@@ -133,7 +133,7 @@ PUT /orders/OrderConfirm - Confirm an order
 ## 📸 Visual Guide
 To make this documentation more user-friendly, we’ve included screenshots of the key features of Supplify. These images provide a clear understanding of how the app works, making it easier for new users to navigate and use the system efficiently.
 
-### 1️⃣ Login & Authentication
+### 1️⃣ Login & Registration
 <p align="center">
  <img src="Figure/Login.png" width="45%" style="display: inline-block; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin: 10px;" />
  <img src="Figure/NewBusiness.png" width="45%" style="display: inline-block; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin: 10px;" /> 
