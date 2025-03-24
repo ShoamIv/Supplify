@@ -66,5 +66,68 @@ npm install
 
 npx react-native run-android
 
+## API Endpoints
+
+### Authentication
+
+POST /auth/register - User registration
+
+POST /auth/login - User login
+
+POST /auth/forgotPassword - Forgot password
+
+POST /auth/google - Google authentication
+
+POST /auth/updateDeviceToken - Update device token
+
+### Business
+
+GET /business/getBusinessSuppliers - Get suppliers associated with a business
+
+GET /business/getBusinessSuppliersAndAgents - Get suppliers and agents
+
+GET /business/getBusinessProducts - Get products associated with a business
+
+DELETE /business/deleteSupplierFromBusiness - Remove supplier from business
+
+PUT /business/updateAgent - Update agent information
+
+### Users
+
+POST /user/resetPassword - Reset user password
+
+POST /user/createUser - Create a new user
+
+### Suppliers
+
+POST /suppliers/createSupplier - Create a new supplier
+
+GET /suppliers/getAllSuppliers - Retrieve all suppliers
+
+DELETE /suppliers/deleteSupplier - Remove a supplier
+
+### Agents
+
+POST /agents/addAgent - Add a new agent
+
+### Products
+
+POST /product/createProduct - Create a new product
+
+GET /product/displayProducts - Display all products
+
+GET /product/fetchProduct - Retrieve a specific product
+
+### Orders
+
+POST /orders/CreateOrder - Create a new order
+
+GET /orders/getOrders - Retrieve all orders
+
+GET /orders/getOrderInfo - Retrieve order details
+
+GET /orders/getPendingOrders - Get all pending orders
+
+PUT /orders/OrderConfirm - Confirm an order
 
 
