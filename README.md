@@ -136,16 +136,34 @@ To make this documentation more user-friendly, we’ve included screenshots of t
 ### 1️⃣ Login & Authentication
 
 <p align="center">
- <img src="Figure/W2V_SVM_confusion_matrix.png" width="45%" style="display: inline-block;" />
- <img src="Figure/BERT_SVM_confusion_matrix.png" width="45%" style="display: inline-block;" /> 
+ <img src="Figure/Login.png" width="45%" style="display: inline-block;" />
+ <img src="Figure/NewBusiness.png" width="45%" style="display: inline-block;" /> 
 </p>
 
-### 2️⃣ Supplier Management
+### 2️⃣ Hone Page & SideBar
 
-### 3️⃣ Order Creation & Consolidation
+<p align="center">
+ <img src="Figure/HomePage.png" width="45%" style="display: inline-block;" />
+ <img src="Figure/SideBar.png" width="45%" style="display: inline-block;" /> 
+</p>
 
-### 4️⃣ Order Confirmation
+### 3️⃣ Order
 
+<p align="center">
+ <img src="Figure/ShoppingBag.png" width="45%" style="display: inline-block;" />
+ <img src="Figure/OrderDetails.png" width="45%" style="display: inline-block;" /> 
+</p>
+
+<p align="center">
+ <img src="Figure/OrderList.png" width="80%" style="display: inline-block;" />
+</p>
+
+### 4️⃣ Add Product & Business
+
+<p align="center">
+ <img src="Figure/AddNewProduct.png" width="45%" style="display: inline-block;" />
+ <img src="Figure/AddNewSupplier.png" width="45%" style="display: inline-block;" /> 
+</p>
 
 
 
