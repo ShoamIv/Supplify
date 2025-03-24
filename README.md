@@ -134,35 +134,30 @@ PUT /orders/OrderConfirm - Confirm an order
 To make this documentation more user-friendly, we’ve included screenshots of the key features of Supplify. These images provide a clear understanding of how the app works, making it easier for new users to navigate and use the system efficiently.
 
 ### 1️⃣ Login & Authentication
-
 <p align="center">
- <img src="Figure/Login.png" width="45%" style="display: inline-block;" />
- <img src="Figure/NewBusiness.png" width="45%" style="display: inline-block;" /> 
+ <img src="Figure/Login.png" width="45%" style="display: inline-block; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin: 10px;" />
+ <img src="Figure/NewBusiness.png" width="45%" style="display: inline-block; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin: 10px;" /> 
 </p>
 
-### 2️⃣ Hone Page & SideBar
-
+### 2️⃣ Home Page & SideBar
 <p align="center">
- <img src="Figure/HomePage.png" width="45%" style="display: inline-block;" />
- <img src="Figure/SideBar.png" width="45%" style="display: inline-block;" /> 
+ <img src="Figure/HomePage.png" width="45%" style="display: inline-block; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin: 10px;" />
+ <img src="Figure/SideBar.png" width="45%" style="display: inline-block; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin: 10px;" /> 
 </p>
 
 ### 3️⃣ Order
-
 <p align="center">
- <img src="Figure/ShoppingBag.png" width="45%" style="display: inline-block;" />
- <img src="Figure/OrderDetails.png" width="45%" style="display: inline-block;" /> 
+ <img src="Figure/ShoppingBag.png" width="45%" style="display: inline-block; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin: 10px;" />
+ <img src="Figure/OrderDetails.png" width="45%" style="display: inline-block; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin: 10px;" /> 
 </p>
-
 <p align="center">
- <img src="Figure/OrderList.png" width="80%" style="display: inline-block;" />
+ <img src="Figure/OrderList.png" width="70%" style="display: inline-block; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin: 10px;" />
 </p>
 
 ### 4️⃣ Add Product & Business
-
 <p align="center">
- <img src="Figure/AddNewProduct.png" width="45%" style="display: inline-block;" />
- <img src="Figure/AddNewSupplier.png" width="45%" style="display: inline-block;" /> 
+ <img src="Figure/AddNewProduct.png" width="45%" style="display: inline-block; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin: 10px;" />
+ <img src="Figure/AddNewSupplier.png" width="45%" style="display: inline-block; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin: 10px;" /> 
 </p>
 
 
