@@ -145,7 +145,7 @@ To make this documentation more user-friendly, we’ve included screenshots of t
  <img src="Figure/SideBar.png" width="45%" style="display: inline-block; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin: 10px;" /> 
 </p>
 
-### 3️⃣ Order
+### 3️⃣ Orders
 <p align="center">
  <img src="Figure/ShoppingBag.png" width="45%" style="display: inline-block; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin: 10px;" />
  <img src="Figure/OrderDetails.png" width="45%" style="display: inline-block; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin: 10px;" /> 
