@@ -130,4 +130,22 @@ GET /orders/getPendingOrders - Get all pending orders
 
 PUT /orders/OrderConfirm - Confirm an order
 
+## 📸 Visual Guide
+To make this documentation more user-friendly, we’ve included screenshots of the key features of Supplify. These images provide a clear understanding of how the app works, making it easier for new users to navigate and use the system efficiently.
+
+### 1️⃣ Login & Authentication
+
+<p align="center">
+ <img src="Figure/W2V_SVM_confusion_matrix.png" width="45%" style="display: inline-block;" />
+ <img src="Figure/BERT_SVM_confusion_matrix.png" width="45%" style="display: inline-block;" /> 
+</p>
+
+### 2️⃣ Supplier Management
+
+### 3️⃣ Order Creation & Consolidation
+
+### 4️⃣ Order Confirmation
+
+
+
 
